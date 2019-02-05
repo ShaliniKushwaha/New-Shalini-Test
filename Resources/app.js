@@ -1,5 +1,6 @@
 //create win object
 // new
+// testing git module shalini hgjgjhgjhh
 var win = Ti.UI.createWindow({
 	backgroundColor : 'white'
 });
